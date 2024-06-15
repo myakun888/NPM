@@ -1,6 +1,6 @@
 # npm configuration
 
-
+#npm
 ## pacakge json
 
 inti dari config ini adalah file berbentu json dimana ada atribut dan value nya masing masing  
