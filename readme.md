@@ -11,3 +11,5 @@ materi nya adalah
 * script 
 * dependencies managament  
 * dll
+
+untuk link materi pptx , diambil dari materi programmer zaman now [slid pptx npm](https://docs.google.com/presentation/d/1xoa7-a8OTXvHRSOepAHXu3MTg9M3Y_nBRFmJQAMeW2Q/edit?usp=sharing)
