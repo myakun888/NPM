@@ -35,5 +35,7 @@ saat kita membuat aplikasi biasanya dependencie saling berhunbungan jadi bijak d
 yang biasa digunakan itu adalah cara penulisan no 4, 5, 6, atau yang di 
 
 
+pembahasan lain tentan semantic [[informasi semantic]]
+
 untuk simulasi silahkan lihat pada link berikut
 [npm semantic version](**[https://semver.npmjs.com/](https://semver.npmjs.com/)**)
